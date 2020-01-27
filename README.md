@@ -1,1 +1,1 @@
-# Ejercicios-Curso-de-Iniaci-n-a-la-Programaci-on-en-Python
+# Ejercicios-Curso-de-Iniciación-a-la-Programación-en-Python
