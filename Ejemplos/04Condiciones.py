@@ -11,8 +11,7 @@ umbral=int(input("Introduce un umbral: "))
 
 if entero>umbral:
     print("El número introducido es mayor que el umbral introducido")
+elif (entero==umbral):
+    print("El número introducido es igual al umbral introducido")
 else:
-    if entero==umbral:
-        print("El número introducido es igual al umbral introducido")
-    else:
-        print("El número introducido es menor que el umbral introducido")
+    print("El número introducido es menor que el umbral introducido")
