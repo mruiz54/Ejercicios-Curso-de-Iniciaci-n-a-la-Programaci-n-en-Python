@@ -30,42 +30,42 @@
 3. [Ejemplo 14](https://create.withcode.uk/python/AK2)
 4. [Ejemplo 15](https://create.withcode.uk/python/AK3)
 
-# Ejercicios propuestos
+## Ejercicios propuestos
 
 ***Nota: No mirar las soluciones antes de intentarlo.***
 
-### 1. Pedir peso y altura para calcular el índice masa corporal: mc = peso / altura^2.
+### 1. Pedir peso y altura para calcular el índice masa corporal: imc = peso / altura^2.
 
-[Solución del ejercicio 1](https://create.withcode.uk/python/AJn)
+* [Solución del ejercicio 1](https://create.withcode.uk/python/AJn)
 
 ### 2. Pedir radio de una circunferencia y calcular su perímetro: C = 2*PI*r.
 
-[Solución del ejercicio 2](https://create.withcode.uk/python/AJt)
+* [Solución del ejercicio 2](https://create.withcode.uk/python/AJt)
 
 ### 3. Pedir un número por teclado y decir si es par o impar.
 
-[Solución ejercicio 3](https://create.withcode.uk/python/AK4)
+* [Solución ejercicio 3](https://create.withcode.uk/python/AK4)
 
 ### 4. Pedir tres números por teclado e imprimir el mayor de ellos solamente.
 
-[Solución ejercicio 4](https://create.withcode.uk/python/AK5)
+* [Solución ejercicio 4](https://create.withcode.uk/python/AK5)
 
 ### 5. Calcula e imprime la suma desde el 14 hasta el 38, ambos inclusive.
 
-[Solución ejercicio 5](https://create.withcode.uk/python/AK6)
+* [Solución ejercicio 5](https://create.withcode.uk/python/AK6)
 
 ### 6. Calcula e imprime el producto de la serie 2x4x6x8x … x20.
 
-[Solución ejercicio 6](https://create.withcode.uk/python/AK7)
+* [Solución ejercicio 6](https://create.withcode.uk/python/AK7)
 
 ### 7. Crea una función que reciba 2 números y devuelva el resto de la división del primer número dividido entre el segundo. Imprime el resultado.
 
-[Solución ejercicio 7](https://create.withcode.uk/python/AK9)
+* [Solución ejercicio 7](https://create.withcode.uk/python/AK9)
 
 ### 8. Crea una función que reciba la base y la altura de un triángulo y devuelva su área. A = ½ bh.
 
-[Solución ejercicio 8](https://create.withcode.uk/python/AKA)
+* [Solución ejercicio 8](https://create.withcode.uk/python/AKA)
 
 ### Reto final: Crea una función que reciba un número y calcule si es primo o no.
 
-[Solución reto final](https://create.withcode.uk/python/AKD)
+* [Solución reto final](https://create.withcode.uk/python/AKD)
