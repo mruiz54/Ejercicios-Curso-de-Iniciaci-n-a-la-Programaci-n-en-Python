@@ -20,15 +20,14 @@
 
 ## Listas
 
-1. [Ejemplo 10](https://create.withcode.uk/python/AJw)
-2. [Ejemplo 11](https://create.withcode.uk/python/AKC)
+1. [Ejemplo 10](https://create.withcode.uk/python/MfM)
 
 ## Funciones
 
-1. [Ejemplo 12](https://create.withcode.uk/python/AJz)
-2. [Ejemplo 13](https://create.withcode.uk/python/AJy)
-3. [Ejemplo 14](https://create.withcode.uk/python/AK2)
-4. [Ejemplo 15](https://create.withcode.uk/python/AK3)
+1. [Ejemplo 11](https://create.withcode.uk/python/AJz)
+2. [Ejemplo 12](https://create.withcode.uk/python/AJy)
+3. [Ejemplo 13](https://create.withcode.uk/python/AK2)
+4. [Ejemplo 14](https://create.withcode.uk/python/AK3)
 
 ## Ejercicios propuestos
 
